@@ -6,13 +6,13 @@ This is a repository for my Python programming work and projects from my Busines
 
 PROJECT INFO:
 
-Text Adventure Four Lions.ipynb
+Text_Adventure_Four_Lions.ipynb
 
 This project was an individual assignment, creating a text adventure game with the initial knowledge gained from the Python module. 
 I recieved a 95/100 for this project. 
 Use of UDF, IF/ELIF, TRY/EXCEPT, WHILE TRUE & USER INPUTS (and more...) 
 
-TEAM 2 Python Data Op Assignment.ipynb
+Python_Data_Op_Assignment.ipynb
 
 This was a group assignment, however I did the Python coding on behalf of the group. 
 The assignment was to create an optimization model in Excel and Python using a case study about a Thai popcorn manufacturers decision to enter the Chinese Market.
